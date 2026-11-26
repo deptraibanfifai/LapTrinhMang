@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/BaiTap/BrowserApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BaiTap/Multicast" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BaiTap/NguyenMinhHieu_24IT065_lab5/ChatUDP" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BaiTap/NguyenMinhHieu_24IT065_lab5/MailServer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ChatApp/ChatApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ChatTCP" vcs="Git" />
+  </component>
+</project>
